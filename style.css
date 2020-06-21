@@ -1,0 +1,31 @@
+.bpcontain {
+    background: royalblue;
+    padding: 20px;
+    font-size: medium;
+}
+
+.bp2contain {
+    background: seagreen;
+}
+
+.bg1_for_grid {
+    background: skyblue;
+}
+
+.bg2_for_grid {
+    background: orange;
+}
+
+.highlight_bg {
+    background: salmon;
+}
+
+.image {
+    height: 600px;
+    width: 100%;
+}
+
+.jmpbg {
+    color: white;
+    background: black;
+}
