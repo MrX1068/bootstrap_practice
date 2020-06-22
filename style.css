@@ -1,31 +1,43 @@
 .bpcontain {
-    background: royalblue;
-    padding: 20px;
-    font-size: medium;
+  background: royalblue;
+  padding: 20px;
+  font-size: medium;
 }
 
 .bp2contain {
-    background: seagreen;
+  background: seagreen;
 }
 
 .bg1_for_grid {
-    background: skyblue;
+  background: skyblue;
 }
 
 .bg2_for_grid {
-    background: orange;
+  background: orange;
 }
 
 .highlight_bg {
-    background: salmon;
+  background: salmon;
 }
 
 .image {
-    height: 600px;
-    width: 100%;
+  height: 600px;
+  width: 100%;
 }
 
 .jmpbg {
-    color: white;
-    background: black;
+  color: white;
+  background: black;
+}
+
+.sb {
+  border-radius: 20px;
+  margin-left: 200px;
+}
+hr {
+  border: 1px solid red;
+}
+
+.page {
+  color: orangered;
 }
