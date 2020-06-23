@@ -34,10 +34,17 @@
   border-radius: 20px;
   margin-left: 200px;
 }
+
 hr {
   border: 1px solid red;
 }
 
 .page {
   color: orangered;
+}
+
+
+ul.list-group {
+  color: orangered;
+  border: 2px orangered;
 }
