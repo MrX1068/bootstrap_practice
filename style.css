@@ -48,3 +48,39 @@ ul.list-group {
   color: orangered;
   border: 2px orangered;
 }
+
+
+
+.navbar-brand {
+  color: orangered;
+  font-weight: bolder;
+}
+
+.colornav {
+  font-size: large;
+  color: orangered;
+}
+
+.bodybg {
+  background: black;
+
+}
+
+.navbarmar {
+  margin-top: 20px;
+  padding-top: 10px;
+
+}
+
+.jmbcon {
+  margin-top: 30px;
+
+}
+
+.bqc {
+  color: whitesmoke;
+}
+
+.listcolor {
+  color: cyan;
+}
